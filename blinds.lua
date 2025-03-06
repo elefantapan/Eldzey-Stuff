@@ -1,8 +1,8 @@
 SMODS.Atlas {
     key = "blind_chips",
     path = "Thread.png",
-    px = 0,
-    py = 0,
+    px = 34,
+    py = 34,
     atlas_table = 'ANIMATION_ATLAS',
     frames = 20
 }
