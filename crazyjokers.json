@@ -1,0 +1,17 @@
+{
+	"id": "Crazy_jokers", 
+	"name": "Crazy Jokers", 
+	"author": ["EldzeyTheDevv"],
+	"description": "Adds a bunch of crazy jokers, pokerhands and so on", 
+	"prefix": "crjk", 
+	"main_file": "main.lua", 
+	"priority": 0, 
+	"badge_colour": "FF230A", 
+	"badge_text_colour": "ABC123", 
+	"display_name": "Crazy Jokers",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+	]
+}
